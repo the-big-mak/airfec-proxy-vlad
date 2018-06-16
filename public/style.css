@@ -1,0 +1,16 @@
+#appPhotos {
+    height: 702px;
+    width: 100%;
+}
+#wrapper {
+    margin-right: 150px;
+    margin-left: 75px;
+}
+#appReservations {
+    margin-right: 75px;
+    margin-left: 200px;
+}
+
+#appReservations * {
+    box-sizing: border-box;
+}
